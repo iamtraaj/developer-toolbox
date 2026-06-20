@@ -122,5 +122,5 @@ developer-toolbox/
 
 ---
 
-Built with love by Mudassar Tauseef — mudassartauseef1@gmail.com
+Built with love by Md Tauseef Alam — mdtauseefalam16@gmail.com
 Built for Digital Heroes: https://digitalheroesco.com
